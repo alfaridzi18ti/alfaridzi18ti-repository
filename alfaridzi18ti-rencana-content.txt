@@ -1,6 +1,8 @@
 RENCANA KONTEN ALFARIDZI18TI
 
-- Javascript
-- PHP Frameworks
-- Interview
+- Game
+  * Outlast
+  * Silent Hill
 - Vlogs
+- Mukbang
+- Live Reaction
